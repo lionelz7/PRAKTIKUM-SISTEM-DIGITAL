@@ -14,19 +14,16 @@
 ---
 
 ## 📝 Penjelasan Tugas & Komponen
-Tugas ini mengimplementasikan rangkaian digital menggunakan 3 komponen IC utama pada Tinkercad.
+Tugas ini merangkai dan mengetes setiap rangkaian dasar gerbang logika (AND, OR, NAND, NOR, XOR, XNOR, NOT) menggunakan Tinkercad.
 
-### 1. IC [Nama IC 1, contoh: 74HC08 / AND]
-* **Fungsi:** [Jelaskan singkat fungsi IC ini di rangkaian]
-* **Pengerjaan:** Digunakan untuk mengontrol logika...
+### 1. Gerbang Dasar AND
+* **Penjelasan:** Output baru bakal nyala (1) kalau semua inputnya bernilai 1.
+* **Pengerjaan:** Gerbang dibuat dengan menggunakan IC 7408, Resistor, Power Supply, LED dan Switch. *
 
-### 2. IC [Nama IC 2, contoh: 74HC32 / OR]
-* **Fungsi:** [Jelaskan singkat fungsi IC ini]
-* **Pengerjaan:** ...
+### 2. Gerbang Dasar OR
+* **Penjelasan:** Output nyala (1) ketika salah satu input bernilai 1.
+* **Pengerjaan:** Gerbang dibuat dengan menggunakan IC 7432, Resistor, Power Supply, LED dan Switch. *
 
-### 3. IC [Nama IC 3]
-* **Fungsi:** ...
-* **Pengerjaan:** ...
 
 ---
 
