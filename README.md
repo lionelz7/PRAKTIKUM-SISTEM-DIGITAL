@@ -21,7 +21,7 @@ Tugas ini merangkai dan mengetes setiap rangkaian dasar gerbang logika (AND, OR,
 
 * **Pengerjaan:** Gerbang dibuat dengan menggunakan IC 74HC08, Resistor, Power Supply, LED dan Switch.
 
-<img width="790" height="608" alt="Screenshot 2026-05-12 161748" src="https://github.com/user-attachments/assets/fbc8023f-a2ea-4df7-bbb4-eea5e4401409" />
+<img width="300" height="200" alt="Screenshot 2026-05-12 161748" src="https://github.com/user-attachments/assets/fbc8023f-a2ea-4df7-bbb4-eea5e4401409" />
 
 
 ### 2. Gerbang Dasar OR
