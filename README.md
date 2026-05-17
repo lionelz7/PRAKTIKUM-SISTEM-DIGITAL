@@ -1,14 +1,15 @@
 # Tugas Praktikum Sistem Digital - Komponen IC
 
 ## 👥 Anggota Kelompok
-1. Nama Anggota 1 - NIM
-2. Nama Anggota 2 - NIM
-3. Nama Anggota 3 - NIM
+1. Jericho Mahesa Putra - H1H025043
+2. Lionel Christian Alexander - H1H025048
+3. Romeo Luthfi Wahyudi - H1H025059
+4. Muhamad Rafi Arwindo - H1H025064
 
 ---
 
 ## 🔗 Link Project
-* **Link Tinkercad:** [Tulis Link Tinkercad Rangkaian di Sini]
+* **Link Tinkercad:** https://www.tinkercad.com/things/jHsECBDdsDK/editel?returnTo=%2Fthings&sharecode=z6T6jIUe3CKWMn1iVXGVNSyIQwkgiZomkmTSdHd_p7Q
 
 ---
 
