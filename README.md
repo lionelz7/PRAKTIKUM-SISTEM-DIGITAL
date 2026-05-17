@@ -19,7 +19,10 @@ Tugas ini merangkai dan mengetes setiap rangkaian dasar gerbang logika (AND, OR,
 ### 1. Gerbang Dasar AND
 * **Penjelasan:** Output baru bakal nyala (1) kalau semua inputnya bernilai 1.
 
-* **Pengerjaan:** Gerbang dibuat dengan menggunakan IC 74HC08, Resistor, Power Supply, LED dan Switch. 
+* **Pengerjaan:** Gerbang dibuat dengan menggunakan IC 74HC08, Resistor, Power Supply, LED dan Switch.
+
+<img width="790" height="608" alt="Screenshot 2026-05-12 161748" src="https://github.com/user-attachments/assets/fbc8023f-a2ea-4df7-bbb4-eea5e4401409" />
+
 
 ### 2. Gerbang Dasar OR
 * **Penjelasan:** Output nyala (1) ketika salah satu input bernilai 1.
