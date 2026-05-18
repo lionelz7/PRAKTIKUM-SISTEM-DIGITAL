@@ -48,6 +48,7 @@ Tugas ini merangkai dan mengetes setiap rangkaian dasar gerbang logika (AND, OR,
 * **Penjelasan:** Kebalikan dari gerbang OR. Output baru bakal nyala (1) kalau semua inputnya bernilai 0
 
 * **Pengerjaan:** Gerbang dibuat dengan menggunakan IC 74HC02, Resistor, Power Supply, LED dan Switch.
+  
   <img width="400" height="300" alt="Screenshot 2026-05-12 162603" src="https://github.com/user-attachments/assets/22fb7b7a-62ae-4688-8b24-655b3f3b6fe1" />
 
 ### 6. Gerbang Dasar XOR
