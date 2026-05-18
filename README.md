@@ -1,4 +1,5 @@
 # Tugas Praktikum Sistem Digital - Komponen IC
+Dasar
 
 ## 👥 Anggota Kelompok
 1. Jericho Mahesa Putra - H1H025043
